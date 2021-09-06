@@ -14,6 +14,7 @@ examples/*/Release/*
 examples/*/x64/*
 [Bb]in/
 [Bb]in-int/
+[Oo]ut/
 
 ## Visual Studio artifacts
 .vs
